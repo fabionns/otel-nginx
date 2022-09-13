@@ -1,2 +1,2 @@
 # otel-nginx
-OpenTelemetry collector service
+Telemetry collector service
